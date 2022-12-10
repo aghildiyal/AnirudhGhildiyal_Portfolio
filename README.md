@@ -1,2 +1,2 @@
 # Anirudh Ghildiyal's Portfolio
-Anirudh's data analysis portfolio
+Anirudh's data analytics portfolio
