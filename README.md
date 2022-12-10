@@ -1,2 +1,2 @@
-# AnirudhGhildiyal_Portfolio
+# Anirudh_Ghildiyal_Portfolio
 Anirudh's data analysis/science portfolio
